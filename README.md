@@ -1,47 +1,50 @@
-<h1 align="center">👋 Hey there, I'm Hung</h1>
+<h1 align="center">Hi, I'm Hung 👨‍💻</h1>
 
 <p align="center">
-  <em>Backend Developer | Clean Code Enthusiast | Systems Thinker</em>
+  <i>A backend developer who believes clean code is not optional — it's respect for the next dev.</i>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🪪 Who I Am
 
-I'm a backend developer born in 1999, currently working in the consumer finance sector.  
-I specialize in building scalable backend systems using Java and Spring Boot.  
-Driven by curiosity and a passion for clean architecture, I enjoy exploring complex systems and breaking them down into simple, maintainable components.
+I'm not just a Java developer.  
+I'm the kind of engineer who reads logs like novels, enjoys debugging more than scrolling Facebook,  
+and smiles every time I delete 100 lines of legacy code no longer needed.
 
----
-
-### ✅ Strengths
-
-- Strong understanding of system design, RESTful APIs, and data flow in distributed systems
-- Experienced with:
-  - `Java`, `Spring Boot`, `MySQL`
-  - `Kafka`, `Redis`, `Docker`, `Kubernetes`
-  - CI/CD using GitLab Pipelines
-- Code quality mindset: I refactor often and hate leaving messy code behind
+I currently work in consumer finance, building systems that matter — where bugs are money and performance is trust.
 
 ---
 
-### 💡 My Personality at Work
+### 🔧 What I Do Best
 
-- **Straightforward** – I speak with clarity and code with purpose
-- **Detail-oriented** – Backend code must be precise, reliable, and tested
-- **Quiet but solid** – I don’t talk much, but I always deliver
-
----
-
-### 🎯 What I'm Aiming For
-
-- Become a **backend architect**: deep understanding, strong system design, and hands-on coding ability
-- Master cloud-native technologies: GCP, Kubernetes, event-driven architectures
-- Build backend systems that are **reliable, scalable, and easy to maintain**
+- Design systems that can grow without breaking
+- Write backend services that are readable, testable, and observable
+- Speak fluent `Java`, `Spring Boot`, `Kafka`, `Redis`, `MySQL`, `Docker`, and `Kubernetes`
+- Ship things. Refactor things. Automate things.
 
 ---
 
-### 📫 Let’s Connect
+### 🎯 What Drives Me
+
+I don't want to just *code* — I want to *build*.  
+Build systems that scale. Build code that lasts.  
+Build myself into an architect who makes complexity feel simple.
+
+Cloud-native, event-driven, observable-by-default — that’s where I’m headed.
+
+---
+
+### 💡 How I Work
+
+- 🧠 Think clearly  
+- ✍️ Write precisely  
+- 📦 Ship reliably  
+- 🤐 Talk less, code more
+
+---
+
+### 📫 Let's Connect
 
 <p>
   <a href="mailto:hungpt1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-hungpt1999@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -50,7 +53,8 @@ Driven by curiosity and a passion for clean architecture, I enjoy exploring comp
 
 ---
 
-### 💬 My Coding Philosophy
+### 🧠 Personal Motto
 
-> **"Code isn’t just meant to work — it should be understood."**  
-> If someone reads my code 6 months later and says “nice,” I’ve done it right.
+> _"Write code your future self won’t hate you for."_  
+> And if you make it elegant — even better.
+
