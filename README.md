@@ -47,7 +47,7 @@ Cloud-native, event-driven, observable-by-default — that’s where I’m heade
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:hungpt1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-hungpt1999@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hungpt591@gmail.com"><img src="https://img.shields.io/badge/Gmail-hungpt591@gmail.com.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hungpt1999"><img src="https://img.shields.io/badge/GitHub-hungpt1999-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
