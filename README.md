@@ -12,7 +12,7 @@ I'm not just a Java developer.
 I'm the kind of engineer who reads logs like novels, enjoys debugging more than scrolling Facebook,  
 and smiles every time I delete 100 lines of legacy code no longer needed.
 
-I currently work in consumer finance, building systems that matter — where bugs are money and performance is trust.
+I currently work in fintech, building systems that matter — where bugs are money and performance is trust.
 
 ---
 
